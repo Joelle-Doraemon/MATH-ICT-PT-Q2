@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>DOMAIN AND RANGE</title>
+</head>
+<body background="Pastel Blue Gingham.jpg">
+</body>
+</html>
